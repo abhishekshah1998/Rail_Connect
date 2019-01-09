@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "44825364049",
+    "firebase_url": "https://mobond-2.firebaseio.com",
+    "project_id": "mobond-2",
+    "storage_bucket": "mobond-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44825364049:android:638108d721e33bf2",
+        "android_client_info": {
+          "package_name": "com.abhishekshah.railconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44825364049-ml7renn8aafp5duqe73otphp6l8egjje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishekshah.railconnect",
+            "certificate_hash": "ca80d2e90b31f2da32dd26920533533872a24ad5"
+          }
+        },
+        {
+          "client_id": "44825364049-8qg0ocuv17qjps35rrvis6vmone6aoa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_bBkEBrhkU6FwSVMZS542UUhsxuBWIR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44825364049-8qg0ocuv17qjps35rrvis6vmone6aoa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+# Referenced at D:\Mobond\Rail Connect\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24
+-keep class com.abhishekshah.railconnect.Application { <init>(...); }

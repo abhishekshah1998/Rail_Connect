@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626569647912",
+    "firebase_url": "https://mobond-37541.firebaseio.com",
+    "project_id": "mobond-37541",
+    "storage_bucket": "mobond-37541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626569647912:android:91e94fd9291e9ac6",
+        "android_client_info": {
+          "package_name": "com.rozdoum.socialcomponents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626569647912-g5q3k2iq5a83iho8qegqnbaheek8qo2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtHfijtnSzPajHI2wYyocELD18yohxegY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
